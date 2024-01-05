@@ -1,0 +1,24 @@
+.decklist .items {
+  width: 80%;
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(300px,1fr));
+  grid-template-rows: auto;
+  gap: 10px;
+  margin-inline: auto;
+}
+
+.decklist .h2 {
+  font-size: 3rem;
+}
+
+.decklist .btn-container {
+  width: 80%;
+  margin-inline: auto;
+}
+
+.decklist button {
+  height: 2rem;
+  width: min(20vw,80%);
+}

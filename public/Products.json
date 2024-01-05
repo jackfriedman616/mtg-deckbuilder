@@ -1,0 +1,1109 @@
+ [
+  {
+        "id": 1,
+        "name": "Abrade", 
+        "img": [
+            {
+                "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636839&type=card",
+                "title": "Abrade",
+                "artist": "Bartek Fedyczak",
+                "cardNum": 131
+            }
+        ],
+        "colorId": [
+            "Red"
+        ], 
+        "manaCost": "1R", 
+        "manaValue": 2, 
+        "cardType": ["Instant"], 
+        "rulesText": "Choose One--  *Abrade deals 3 damage to target creature.  *Destroy target artifact.", 
+        "rarity": "Common", 
+        "expansion": "LCI",
+        "description": "Name: Abrade, Color Identity: Red, Mana Cost: 1R, Mana Value: 2, Types: Instant, Card Text:  Choose One--  *Abrade deals 3 damage to target creature.  *Destroy target artifact., Rarity: Common, Expansion: LCI"
+  },
+  {
+    "id": 2,
+    "name": "Abuelo, Ancestral Echo", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636939&type=card",
+            "title": "Abuelo, Ancestral Echo",
+            "artist": "Victor Adame Minguez",
+            "cardNum": 219
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636505",
+            "title": "Abuelo, Ancestral Echo Showcase",
+            "artist": "Cabrol",
+            "cardNum": 297
+        }
+    ],
+    "colorId": [
+        "Multicolor",
+        "White",
+        "Blue"
+    ], 
+    "manaCost": "1WU", 
+    "manaValue": 3, 
+    "superType": [
+        "Legendary"
+    ],
+    "cardType": [
+        "Creature"
+    ],
+    "type": [
+        "Spirit"
+    ],
+    "rulesText": "Flying, Ward 2  1WU:Exile another target creature or artifact you control. Return it under its owners control at the beginning of the next end step.", 
+    "power": 2, 
+    "toughness": 2, 
+    "rarity": "Rare", 
+    "expansion": "LCI",
+    "description": "Name: Abuelo, Ancestral Echo, Color Identity: White/Blue, Mana Cost: 1WU, Mana Value: 3, Types: Legendary Creature--Spirit, Card Text: Flying, Ward 2  1WU:Exile another target creature or artifact you control. Return it under its owners control at the beginning of the next end step., P: 2, T: 2, Rarity: Rare, Expansion: LCI"
+  },
+  {
+    "id": 3,
+    "name": "Abuelo's Awakening", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636691",
+            "title": "Abuelos Awakening",
+            "artist": "Eelis Kyttanen",
+            "cardNum": 1
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=639750&type=card",
+            "title": "Abuelos Awakening Borderless",
+            "artist": "Eelis Kyttanen",
+            "cardNum": 353
+        }
+    ], 
+    "colorId": [
+        "White"
+    ],
+    "manaCost": "X3W", 
+    "manaValue": 4, 
+    "cardType": [
+        "Sorcery"
+    ],
+    "rulesText": "Return target artifact or non-Aura enchantment card from your graveyard to the battlefield with X additional +1/+1 counters on it. It is a 1/1 Spirit creature with flying in addition to its other types.", 
+    "rarity": "Rare", 
+    "expansion": "LCI",
+    "description": "Name: Abuelo's Awakening, Color Identity: White, Mana Cost: X3W, Mana Value: 4, Types: Sorcery, Card Text: Return target artifact or non-Aura enchantment card from your graveyard to the battlefield with X additional +1/+1 counters on it. It is a 1/1 Spirit creature with flying in addition to its other types., Rarity: Rare, Expansion: LCI"
+  },
+  {
+    "id": 4,
+    "name": "Abyssal Gorestalker", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636790&type=card",
+            "title": "Abyssal Gorestalker",
+            "artist": "Maxime Minard", 
+            "cardNum": 87
+        }
+    ], 
+    "colorId": [
+        "Black"
+    ],
+    "manaCost": "4BB", 
+    "manaValue": 6, 
+    "cardType": [
+        "Creature"
+    ], 
+    "type": [
+        "Horror"
+    ],
+    "rulesText": "When Abyssal Gorestalker enters the battlefield, each player sacrifices two creatures.", 
+    "power": 6, 
+    "toughness": 6, 
+    "rarity": "Uncommon", 
+    "expansion": "LCI",
+    "description": "Name: Abyssal Gorestalker, Color Identity: Black, Mana Cost: 4BB, Mana Value: 6, Types: Creature--Horror, Card Text: When Abyssal Gorestalker enters the battlefield, each player sacrifices two creatures., P: 6, T: 6, Rarity: Uncommon, Expansion: LCI"
+  },
+  {
+    "id": 5,
+    "name": "Aclazotz, Deepest Betrayal", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636791&type=card",
+            "title": "Aclazotz, Deepest Betrayal",
+            "artist": "Steve Prescott",
+            "cardNum": "88"
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=639434&type=card",
+            "title": "Aclazotz, Deepest Betrayal Showcase",
+            "artist": "Clint Lockwood",
+            "cardNum": 316
+        }
+    ], 
+    "colorId": [
+        "Black"
+    ],
+    "manaCost": "3BB", 
+    "manaValue": 5, 
+    "superType": [
+        "Legendary"
+    ], 
+    "cardType": [
+        "Creature"
+    ],
+    "type": [
+        "Bat",
+        "God"
+    ],
+    "rulesText": "Flying, lifelink  Whenever Aclazotz attacks, each opponent discards a card. For each opponent who can not, you draw a card.  Whenever an opponent discards a land card, create a 1/1 black Bat creature token with flying.  When Aclazotz dies, return it to the battlefield tapped and transformed under its owners control.", 
+    "power": 4, 
+    "toughness": 4, 
+    "rarity": "Mythic Rare", 
+    "expansion": "LCI",
+    "description": "Name: Aclazotz, Deepest Betrayal, Color Identity: Black, Mana Cost: 3BB, Mana Value: 5, Types: Legendary Creature--Bat God, Card Text: Flying, lifelink  Whenever Aclazotz attacks, each opponent discards a card. For each opponent who can not, you draw a card.  Whenever an opponent discards a land card, create a 1/1 black Bat creature token with flying.  When Aclazotz dies, return it to the battlefield tapped and transformed under its owners control., P: 4, T: 4, Rarity: Mythic Rare, Expansion: LCI, Back Side: Name: Temple of the Dead, Color Identity: Black, Mana Value: 5, Types: Land, Card Text: (Transforms from Aclazotz, Deepest Betrayal.)  Tap: Add B.  2B, Tap: Transform Temple of the Dead. Activate only if a player has one or fewer cards in hand and only as a sorcery., Rarity: Mythic Rare",
+    "backSide": {
+      "name": "Temple of the Dead", 
+      "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636792&type=card",
+            "title": "Temple of the Dead",
+            "artist": "Steve Prescott",
+            "cardNum": 88
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=639435&type=card",
+            "title": "Temple of the Dead Showcase",
+            "artist": "Viko Menezes",
+            "cardNum": 316
+        }
+      ], 
+      "colorId": [
+        "Black"
+      ],
+      "manaValue": 5, 
+      "cardType": [
+        "Land"
+      ], 
+      "rulesText": "(Transforms from Aclazotz, Deepest Betrayal.)  Tap: Add B.  2B, Tap: Transform Temple of the Dead. Activate only if a player has one or fewer cards in hand and only as a sorcery.", 
+      "rarity": "Mythic Rare"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Acolyte of Aclazotz", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636793&type=card",
+            "title": "Acolyte of Aclazotz",
+            "artist": "Irina Nordsol",
+            "cardNum": 89
+        }
+    ],
+    "colorId": [
+        "Black"
+    ], 
+    "manaCost": "2B", 
+    "manaValue": 3, 
+    "cardType": [
+        "Creature"
+    ],
+    "type": [
+        "Vampire",
+        "Cleric"
+    ],
+    "rulesText": "Tap, Sacrifice another creature or artifact: Each opponent loses 1 life and you gain 1 life.", 
+    "power": 1, 
+    "toughness": 4, 
+    "rarity": "Common", 
+    "expansion": "LCI",
+    "description": "Name: Acolyte of Aclazotz, Color Identity: Black, Mana Cost: 2B, Mana Value: 3, Types: Creature--Vampire Cleric, Card Text: Tap, Sacrifice another creature or artifact: Each opponent loses 1 life and you gain 1 life., P: 1, T: 4, Rarity: Common, Expansion: LCI"
+  },
+  {
+    "id": 7,
+    "name": "Acrobatic Leap", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636692&type=card",
+            "title": "Acrobatic Leap",
+            "artist": "Fesbra",
+            "cardNum": 2
+        }
+    ],
+    "colorId": [
+        "White"
+    ], 
+    "manaCost": "W", 
+    "manaValue": 1, 
+    "cardType": [
+        "Instant"
+    ],
+    "rulesText": "Target creature gets +1/+3 and gains flying until end of turn. Untap it.", 
+    "rarity": "Common", 
+    "expansion": "LCI",
+    "description": "Name: Acrobatic Leap, Color Identity: White, Mana Cost: W, Mana Value: 1, Types: Instant, Card Text: Target creature gets +1/+3 and gains flying until end of turn. Untap it., Rarity: Common, Expansion: LCI"
+  },
+  {
+    "id": 8,
+    "name": "Adaptive Gemguard", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636693&type=card",
+            "title": "Adaptive Gemguard",
+            "artist": "Anthony Devine",
+            "cardNum": 3
+        }
+    ], 
+    "colorId": [
+        "White"
+    ],
+    "manaCost": "3W", 
+    "manaValue": 4, 
+    "cardType": [
+        "Artifact",
+        "Creature"
+    ],
+    "type": [
+        "Gnome"
+    ],
+    "rulesText": "Tap two untapped artifacts and/or creatures you control: Put a +1/+1 counter on Adaptive Gemguard. Activate only as a sorcery.", 
+    "power": 3, 
+    "toughness": 3, 
+    "rarity": "Common", 
+    "expansion": "LCI",
+    "description": "Name: Adaptive Gemguard, Color Identity: White, Mana Cost: 3W, Mana Value: 4, Types: Artifact Creature--Gnome, Card Text: Tap two untapped artifacts and/or creatures you control: Put a +1/+1 counter on Adaptive Gemguard. Activate only as a sorcery., P: 3, T: 3, Rarity: Common, Expansion: LCI"
+  },
+  {
+    "id": 9,
+    "name": "Akal Pakal, First Among Equals", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636740",
+            "title": "Akal Pakal, First Among Equals",
+            "artist": "Ryan Pancoast",
+            "cardNum": 44
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636499",
+            "title": "Akal Pakal, First Among Equals Showcase",
+            "artist": "Alex Negrea",
+            "cardNum": 292
+        }
+    ], 
+    "colorId": [
+        "Blue"
+    ],
+    "manaCost": "2U", 
+    "manaValue": 3, 
+    "superType": [
+        "Legendary"
+    ],
+    "cardType": [
+        "Creature"
+    ],
+    "type": [
+        "Human",
+        "Advisor"
+    ],
+    "rulesText": "At the beginning of each players end step, if an artifact entered the battlefield under your control this turn, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.", 
+    "power": 1, 
+    "toughness": 5, 
+    "rarity": "Rare", 
+    "expansion": "LCI",
+    "description": "Name: Akal Pakal, First Among Equals, Color Identity: Blue, Mana Cost: 2U, Mana Value: 3, Types: Legendary Creature--Human Advisor, Card Text: At the beginning of each players end step, if an artifact entered the battlefield under your control this turn, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard., P: 1, T: 5, Rarity: Rare, Expansion: LCI"
+  },
+  {
+    "id": 10,
+    "name": "Akawalli, the Seething Tower", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636940&type=card",
+            "title": "Akawalli, the Seething Tower",
+            "artist": "Simon Dominic",
+            "cardNum": 220
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636506",
+            "title": "Akawalli, the Seething Tower Showcase",
+            "artist": "rishxxv",
+            "cardNum": 298
+        }
+    ], 
+    "colorId": [
+        "Multicolor",
+        "Black",
+        "Green"
+    ],
+    "manaCost": "1BG", 
+    "manaValue": 3, 
+    "superType": [
+        "Legendary"
+    ],
+    "cardType": [
+        "Creature"
+    ],
+    "type": [
+        "Fungus"
+    ],
+    "rulesText": "Descend 4 — As long as there are four or more permanent cards in your graveyard, Akawalli, the Seething Tower gets +2/+2 and has trample.  Descend 8 — As long as there are eight or more permanent cards in your graveyard, Akawalli gets an additional +2/+2 and can not be blocked by more than one creature.", 
+    "power": 3, 
+    "toughness": 3, 
+    "rarity": "Uncommon", 
+    "expansion": "LCI",
+    "description": "Name: Akawalli, the Seething Tower, Color Identity: Black/Green, Mana Cost: 1BG, Mana Value: 3, Types: Legendary Creature--Fungus, P:3, T:3, Rarity: Uncommon, Expansion: LCI"
+  },
+  {
+    "id": 11,
+    "name": "Amalia Benavides Aguirre", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636941&type=card",
+            "title": "Amalia Benavides Aguirre",
+            "artist": "Alix Branwyn",
+            "cardNum": 221
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636507",
+            "title": "Amalia Benavides Aguirre Showcase",
+            "artist": "Alex Negrea",
+            "cardNum": 299
+        }
+    ], 
+    "colorId": [
+        "Multicolor",
+        "White",
+        "Black"
+    ],
+    "manaCost": "WB", 
+    "manaValue": 2, 
+    "superType": [
+        "Legendary"
+    ],
+    "cardType": [
+        "Creature"
+    ],
+    "type": [
+        "Vampire",
+        "Scout"
+    ],
+    "rulesText": "Ward—Pay 3 life.  Whenever you gain life, Amalia Benavides Aguirre explores. Then destroy all other creatures if its power is exactly 20. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it is a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)", 
+    "power": 2, 
+    "toughness": 2, 
+    "rarity": "Rare", 
+    "expansion": "LCI",
+    "description": "Name: Amalia Benavides Aguirre, Color Identity: White/Black, Mana Cost: WB, Mana Value: 2, Types: Legendary Creature--Vampire Scout, Card Text: Ward—Pay 3 life.  Whenever you gain life, Amalia Benavides Aguirre explores. Then destroy all other creatures if its power is exactly 20. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it is a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.), P: 2, T: 2, Rarity: Rare, Expansion: LCI"
+  },
+  {
+    "id": 12,
+    "name": "Ancestors' Aid", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636840&type=card",
+            "title": "Ancestors' Aid",
+            "artist": "Alesssandra Pisano",
+            "cardNum": 132
+        }
+    ], 
+    "colorId": [
+        "Red"
+    ],
+    "manaCost": "1R", 
+    "manaValue": 2, 
+    "cardType": [
+        "Instant"
+    ], 
+    "rulesText": "Target creature gets +2/+0 and gains first strike until end of turn.  Create a Treasure token. (It is an artifact with Tap, Sacrifice this artifact: Add one mana of any color.)", 
+    "rarity": "Common", 
+    "expansion": "LCI",
+    "description": "Name: Ancestors' Aid, Color Identity: Red, Mana Cost: 1R, Mana Value: 2, Types: Instant, Card Text: Target creature gets +2/+0 and gains first strike until end of turn.  Create a Treasure token. (It is an artifact with Tap, Sacrifice this artifact: Add one mana of any color.), Rarity: Common, Expansion: LCI"
+  },
+  {
+    "id": 13,
+    "name": "Ancestral Reminiscence", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636741&type=card",
+            "title": "Ancestral Reminiscence",
+            "artist": "Artur Treffner",
+            "cardNum": 45
+        }
+    ],
+    "colorId": [
+        "Blue"
+    ], 
+    "manaCost": "3U", 
+    "manaValue": 4, 
+    "cardType": [
+        "Sorcery"
+    ],
+    "rulesText": "Draw three cards, then discard a card.", 
+    "rarity": "Common", 
+    "expansion": "LCI",
+    "description": "Name: Ancestral Reminiscence, Color Identity: Blue, Mana Cost: 3U, Mana Value: 4, Types: Sorcery, Card Text: Draw three cards, then discard a card., Rarity: Common, Expansion: LCI"
+  },
+  {
+    "id": 14,
+    "name": "Anim Pakal, Thousandth Moon", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636943&type=card",
+            "title": "Anim Pakal, Thousandth Moon",
+            "artist": "Chris Rahn",
+            "cardNum": 223
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636508",
+            "title": "Anim Pakal, Thousandth Moon Showcase",
+            "artist": "Anditya Dita",
+            "cardNum": 300
+        }
+    ], 
+    "colorId": [
+        "Multicolor",
+        "White",
+        "Red"
+    ],
+    "manaCost": "1WR", 
+    "manaValue": 3, 
+    "superType": [
+        "Legendary"
+    ],
+    "cardType": [
+        "Creature"
+    ],
+    "type": [
+        "Human",
+        "Soldier"
+    ],
+    "rulesText": "Whenever you attack with one or more non-Gnome creatures, put a +1/+1 counter on Anim Pakal, then create X 1/1 colorless Gnome artifact creature tokens that are tapped and attacking, where X is the number of +1/+1 counters on Anim Pakal.", 
+    "power": 1, 
+    "toughness": 2, 
+    "rarity": "Rare", 
+    "expansion": "LCI",
+    "description": "Name: Anim Pakal, Thousandth Moon, Color Identity: White/Red, Mana Cost: 1WR, Mana Value: 3, Types: Legendary Creature--Human Soldier, Card Text: Whenever you attack with one or more non-Gnome creatures, put a +1/+1 counter on Anim Pakal, then create X 1/1 colorless Gnome artifact creature tokens that are tapped and attacking, where X is the number of +1/+1 counters on Anim Pakal., P: 1, T: 2, Rarity: Rare, Expansion: LCI"
+  },
+  {
+    "id": 15,
+    "name": "Another Chance", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636794&type=card",
+            "title": "Another Chance",
+            "artist": "Irina Nordsol",
+            "cardNum": 90
+        }
+    ], 
+    "colorId": [
+        "Black"
+    ],
+    "manaCost": "2B", 
+    "manaValue": 3, 
+    "cardType": [
+        "Instant"
+    ], 
+    "rulesText": "You may mill two cards. Then return up to two creature cards from your graveyard to your hand. (To mill two cards, put the top two cards of your library into your graveyard.)", 
+    "rarity": "Common", 
+    "expansion": "LCI",
+    "description": "Name: Another Chance, Color Identity: Black, Mana Cost: 2B, Mana Value: 3, Types: Instant, You may mill two cards. Then return up to two creature cards from your graveyard to your hand. (To mill two cards, put the top two cards of your library into your graveyard.), Rarity: Common, Expansion: LCI"
+  },
+  {
+    "id": 16,
+    "name": "Armored Kincaller", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636888&type=card",
+            "title": "Armored Kincaller",
+            "artist": "John Tedrick",
+            "cardNum": 174
+        }
+    ], 
+    "colorId": [
+        "Green"
+    ],
+    "manaCost": "2G", 
+    "manaValue": 3, 
+    "cardType": [
+        "Creature"
+    ], 
+    "type": [
+        "Dinosaur"
+    ], 
+    "rulesText": "When Armored Kincaller enters the battlefield, you may reveal a Dinosaur card from your hand. If you do or if you control another Dinosaur, you gain 3 life.", 
+    "power": 3, 
+    "toughness": 3, 
+    "rarity": "Common", 
+    "expansion": "LCI",
+    "description": "Name: Armored Kincaller, Color Identity: Green, Mana Cost: 2G, Mana Value: 3, Types: Creature--Dinosaur, Card Text: When Armored Kincaller enters the battlefield, you may reveal a Dinosaur card from your hand. If you do or if you control another Dinosaur, you gain 3 life., P: 3, T: 3, Rarity: Common, Expansion: LCI"
+  },
+  {
+    "id": 17,
+    "name": "Attentive Sunscribe", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636694&type=card",
+            "title": "Attentive Sunscribe",
+            "artist": "Devin Platts",
+            "cardNum": 4
+        }
+    ], 
+    "colorId": [
+        "White"
+    ],
+    "manaCost": "1W", 
+    "manaValue": 2, 
+    "cardType": [
+        "Artifact",
+        "Creature"
+    ],
+    "type": [
+        "Gnome"
+    ], 
+    "rulesText": "Whenever Attentive Sunscribe becomes tapped, scry 1. (Look at the top card of your library. You may put that card on the bottom.)", 
+    "power": 2, 
+    "toughness": 2, 
+    "rarity": "Common", 
+    "expansion": "LCI",
+    "description": "Name: Attentive Sunscribe, Color Identity: White, Mana Cost: 1W, Mana Value: 2, Types: Artifact Creature--Gnome, Card Text: Whenever Attentive Sunscribe becomes tapped, scry 1. (Look at the top card of your library. You may put that card on the bottom.), P: 2, T: 2, Rarity: Common, Expansion: LCI"
+  },
+  {
+    "id": 18,
+    "name": "Bartolomé del Presidio", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636944",
+            "title": "Bartolomé del Presidio",
+            "artist": "Randy Gallegos",
+            "cardNum": "224"
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636463",
+            "title": "Bartolomé del Presidio Etched Frame",
+            "artist": "Randy Gallegos",
+            "cardNum": 409
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636509",
+            "title": "Bartolomé del Presidio Showcase",
+            "artist": "Pig Hands",
+            "cardNum": 301
+        }
+    ], 
+    "colorId": [
+        "Multicolor",
+        "White",
+        "Black"
+    ],
+    "manaCost": "WB", 
+    "manaValue": 2, 
+    "superType": [
+        "Legendary"
+    ], 
+    "cardType": [
+        "Creature"
+    ], 
+    "type": [
+        "Vampire",
+        "Knight"
+    ],
+    "rulesText": "Sacrifice another creature or artifact: Put a +1/+1 counter on Bartolomé del Presidio.", 
+    "power": 2, 
+    "toughness": 1, 
+    "rarity": "Uncommon", 
+    "expansion": "LCI",
+    "description": "Name: Bartolomé del Presidio, Color Identity: White/Black, Mana Cost: WB, Mana Value: 2, Types: Legendary Creature--Vampire Knight, Card Text: Sacrifice another creature or artifact: Put a +1/+1 counter on Bartolomé del Presidio., P: 2, T: 1, Rarity: Uncommon, Expansion: LCI"
+  },
+  {
+    "id": 19,
+    "name": "Basking Capybara", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636889&type=card",
+            "title": "Basking Capybara",
+            "artist": "Ilse Gort",
+            "cardNum": 175
+        }
+    ], 
+    "colorId": [
+        "Green"
+    ],
+    "manaCost": "1G", 
+    "manaValue": 2, 
+    "cardType": [
+        "Creature"
+    ], 
+    "type": [
+        "Capybara"
+    ],
+    "rulesText": "Descend 4 — Basking Capybara gets +3/+0 as long as there are four or more permanent cards in your graveyard.", 
+    "power": 1, 
+    "toughness": 3, 
+    "rarity": "Common", 
+    "expansion": "LCI",
+    "description": "Name: Basking Capybara, Color Identity: Green, Mana Cost: 1G, Mana Value: 2, Types: Creature--Capybara, Card Text: Descend 4 — Basking Capybara gets +3/+0 as long as there are four or more permanent cards in your graveyard."
+  },
+  {
+    "id": 20,
+    "name": "Bat Colony", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636695&type=card",
+            "title": "Bat Colony",
+            "artist": "Cristi Balanescu",
+            "cardNum": 5
+        }
+    ], 
+    "colorId": [
+        "White"
+    ],
+    "manaCost": "2W", 
+    "manaValue": 3, 
+    "cardType": [
+        "Enchantment"
+    ],
+    "rulesText": "When Bat Colony enters the battlefield, create a 1/1 black Bat creature token with flying for each mana from a Cave spent to cast it.  Whenever a Cave enters the battlefield under your control, put a +1/+1 counter on target creature you control.", 
+    "rarity": "Uncommon", 
+    "expansion": "LCI",
+    "description": "Name: Bat Colony, Color Identity: White, Mana Cost: 2W, Mana Value: 3, Types: Enchantment, Card Text:When Bat Colony enters the battlefield, create a 1/1 black Bat creature token with flying for each mana from a Cave spent to cast it.  Whenever a Cave enters the battlefield under your control, put a +1/+1 counter on target creature you control., Rarity: Uncommon, Expansion: LCI"
+  },
+  {
+    "id": 21,
+    "name": "Bedrock Tortoise", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636890",
+            "title": "Bedrock Tortoise",
+            "artist": "Maxime Minard",
+            "cardNum": 176
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=639783",
+            "title": "Bedrock Tortoise Borderless",
+            "artist": "Maxime Minard",
+            "cardNum": 378
+        }
+    ], 
+    "colorId": [
+        "Green"
+    ],
+    "manaCost": "3G", 
+    "manaValue": 4, 
+    "cardType": [
+        "Creature"
+    ],
+    "type": [
+        "Turtle"
+    ], 
+    "rulesText": "As long as it is your turn, creatures you control have hexproof.  Each creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.", 
+    "power": 0, 
+    "toughness": 6, 
+    "rarity": "Rare", 
+    "expansion": "LCI",
+    "description": "Name: Bedrock Tortoise, Color Identity: Green, Mana Cost: 3G, Mana Value: 4, Types: Creature--Turtle, Card Text: As long as it is your turn, creatures you control have hexproof.  Each creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power., P: 0, T: 6, Rarity: Rare, Expansion: LCI"
+  },
+  {
+    "id": 22,
+    "name": "Belligerent Yearling", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636841",
+            "title": "Belligerent Yearling",
+            "artist": "Maxime Minard",
+            "cardNum": 133 
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=639566",
+            "title": "Belligerent Yearling Showcase",
+            "artist": "Sidharth Chaturvedi",
+            "cardNum": 320
+        }
+    ],
+    "colorId": [
+        "Red"
+    ],
+    "manaCost": "1R", 
+    "manaValue": 2, 
+    "cardType": [
+        "Creature"
+    ], 
+    "type": [
+        "Dinosaur"
+    ], 
+    "rulesText": "Trample  Whenever another Dinosaur enters the battlefield under your control, you may have Belligerent Yearling's base power become equal to that creature's power until end of turn.", 
+    "power": 3, 
+    "toughness": 2, 
+    "rarity": "Uncommon", 
+    "expansion": "LCI",
+    "description": "Name: Belligerent Yearling, Color Identity: Red, Mana Cost: 1R, Mana Value: 2, Types: Creature--Dinosaur, Card Text: Trample  Whenever another Dinosaur enters the battlefield under your control, you may have Belligerent Yearling's base power become equal to that creature's power until end of turn., P: 3, T: 2, Rarity: Uncommon, Expansion: LCI"
+  },
+  {
+    "id": 23,
+    "name": "Bitter Triumph", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636795&type=card",
+            "title": "Bitter Triumph",
+            "artist": "Donato Giancola",
+            "cardNum": 91
+        }
+    ], 
+    "colorId": [
+        "Black"
+    ],
+    "manaCost": "1B", 
+    "manaValue": 2, 
+    "cardType": [
+        "Instant"
+    ], 
+    "rulesText": "As an additional cost to cast this spell, discard a card or pay 3 life.  Destroy target creature or planeswalker.", 
+    "rarity": "Uncommon", 
+    "expansion": "LCI",
+    "description": "Name: Bitter Triumph, Color Identity: Black, Mana Cost: 1B, Mana Value: 2, Types: Instant, Card Text: As an additional cost to cast this spell, discard a card or pay 3 life.  Destroy target creature or planeswalker., Rarity: Uncommon, Expansion: LCI"
+  },
+  {
+    "id": 24,
+    "name": "Bloodletter of Aclazotz", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636796",
+            "title": "Bloodletter of Aclazotz",
+            "artist": "Antonio José Manzanedo",
+            "cardNum": 92
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=639262",
+            "title": "Bloodletter of Aclazotz Showcase",
+            "artist": "Bene Rohlmann",
+            "cardNum": 336
+        }
+    ], 
+    "colorId": [
+        "Black"
+    ],
+    "manaCost": "1BBB", 
+    "manaValue": 4, 
+    "cardType": [
+        "Creature"
+    ],
+    "type": [
+        "Vampire",
+        "Demon"
+    ],
+    "rulesText": "Flying  If an opponent would lose life during your turn, they lose twice that much life instead. (Damage causes loss of life.)", 
+    "power": 2, 
+    "toughness": 4, 
+    "rarity": "Mythic Rare", 
+    "expansion": "LCI",
+    "description": "Name: Bloodletter of Aclazotz, Color Identity: Black, Mana Cost: 1BBB, Mana Value: 4, Types: Creature--Vampire Demon, Card Text: Flying  If an opponent would lose life during your turn, they lose twice that much life instead. (Damage causes loss of life.), P: 2, T: 4, Rarity: Mythic Rare, Expansion: LCI"
+  },
+  {
+    "id": 25,
+    "name": "Bloodthorn Flail", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636797&type=card",
+            "title": "Bloodthorn Flail",
+            "artist": "Igor Kieryluk",
+            "cardNum": 93
+        }
+    ], 
+    "colorId": [
+        "Black"
+    ],
+    "manaCost": "B", 
+    "manaValue": 1, 
+    "cardType": [
+        "Artifact"
+    ], 
+    "type": [
+        "Equipment"
+    ], 
+    "rulesText": "Equipped creature gets +2/+1.  Equip--Pay 3 or discard a card.", 
+    "rarity": "Uncommon", 
+    "expansion": "LCI",
+    "description": "Name: Bloodthorn Flail, Color Identity: Black, Mana Cost: B, Mana Value: 1, Types: Artifact--Equipment, Rarity: Uncommon, Expansion: LCI"
+  },
+  {
+    "id": 26,
+    "name": "Bonehoard Dracosaur", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636842&type=card",
+            "title": "Bonehoard Dracosaur",
+            "artist": "Mark Zug",
+            "cardNum": 134
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=639567&type=card",
+            "title": "Bonehoard Dracosaur Showcase",
+            "artist": "Sidharth Chaturvedi",
+            "cardNum": 321
+        }
+    ],
+    "colorId": [
+        "Red"
+    ],
+    "manaCost": "3RR", 
+    "manaValue": 5, 
+    "cardType": [
+        "Creature"
+    ],
+    "type": [
+        "Dinosaur",
+        "Dragon"
+    ], 
+    "rulesText": "Flying, first strike  At the beginning of your upkeep, exile the top two cards of your library. You may play them this turn. If you exiled a land card this way, create a 3/1 red Dinosaur creature token. If you exiled a nonland card this way, create a Treasure token.", 
+    "power": 5, 
+    "toughness": 5, 
+    "rarity": "Mythic Rare", 
+    "expansion": "LCI",
+    "description": "Name: Bonehoard Dracosaur, Color Identity: Red, Mana Cost: 3RR, Mana Value: 5, Types: Creature--Dinosaur Dragon, Card Text: Flying, first strike  At the beginning of your upkeep, exile the top two cards of your library. You may play them this turn. If you exiled a land card this way, create a 3/1 red Dinosaur creature token. If you exiled a nonland card this way, create a Treasure token., P: 5, T: 5, Rarity: Mythic Rare, Expansion: LCI"
+  },
+  {
+    "id": 27,
+    "name": "Brackish Blunder", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636742&type=card",
+            "title": "Brackish Blunder",
+            "artist": "Daarken",
+            "cardNum": 46
+        }
+    ], 
+    "colorId": [
+        "Blue"
+    ],
+    "manaCost": "1U", 
+    "manaValue": 2, 
+    "cardType": [
+        "Instant"
+    ], 
+    "rulesText": "Return target creature to its owner`s hand. If it was tapped, create a Map token. (It is an artifact with 1, Tap, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.)", 
+    "rarity": "Common", 
+    "expansion": "LCI",
+    "description": "Name: Brackish Blunder, Color Identity: Blue, Mana Cost: 1U, Mana Value: 2, Types: Instant, Card Text: Return target creature to its owner`s hand. If it was tapped, create a Map token. (It is an artifact with 1, Tap, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.), Rarity: Common, Expansion: LCI"
+  },
+  {
+    "id": 28,
+    "name": "Braided Net", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636743&type=card",
+            "title": "Braided Net",
+            "artist": "Diego Gisbert",
+            "cardNum": 47
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=639759&type=card",
+            "title": "Braided Net Borderless",
+            "artist": "Diego Gisbert",
+            "cardNum": 360
+        }
+    ], 
+    "colorId": [
+        "Blue"
+    ],
+    "manaCost": "2U", 
+    "manaValue": 3, 
+    "cardType": [
+        "Artifact"
+    ], 
+    "rulesText": "Braided Net enters the battlefield with three net counters on it.  Tap, Remove a net counter from Braided Net: Tap another target nonland permanent. Its activated abilities can not be activated for as long as it remains tapped.  Craft with artifact 1U", 
+    "rarity": "Rare", 
+    "expansion": "LCI", 
+    "description": "Name: Braided Net, Color Identity: Blue, Mana Cost: 2U, Mana Value: 3, Types: Artifact, Card Text: Braided Net enters the battlefield with three net counters on it.  Tap, Remove a net counter from Braided Net: Tap another target nonland permanent. Its activated abilities can not be activated for as long as it remains tapped.  Craft with artifact 1U, Rarity: Rare, Expansion: LCI, Back Side: Name: Braided Quipu, Color Identity: Blue, Mana Value: 3, Types: Artifact, Card Text: 3U, tap: Draw a card for each artifact you control, then put Braided Quipu into its owners library third from the top., Rarity: Rare",
+    "backSide": {
+      "name": "Braided Quipu", 
+      "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636744&type=card",
+            "title": "Braided Quipu",
+            "artist": "Diego Gisbert",
+            "cardNum": 47
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=639760&type=card",
+            "title": "Braided Quipu Borderless",
+            "artist": "Diego Gisbert",
+            "cardNum": 360
+        }
+      ], 
+      "colorId": [
+        "Blue"
+      ],
+      "manaValue": 3, 
+    	"cardType": [
+            "Artifact"
+        ], 
+    	"rulesText": "3U, tap: Draw a card for each artifact you control, then put Braided Quipu into its owners library third from the top.", 
+    	"rarity": "Rare", 
+    	"expansion": "LCI"
+  	}
+  },
+  {
+    "id": 29,
+    "name": "Brass's Tunnel-Grinder", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636843&type=card",
+            "title": "Brass's Tunnel-Grinder",
+            "artist": "Cristi Balanescu",
+            "cardNum": 135
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=639776&type=card",
+            "title": "Brass's Tunnel-Grinder Borderless",
+            "artist": "Cristi Balanescu",
+            "cardNum": 373
+        }
+    ], 
+    "colorId": [
+        "Red"
+    ],
+    "manaCost": "2R", 
+    "manaValue": 3, 
+    "superType": [
+        "Legendary"
+    ], 
+    "cardType": [
+        "Artifact"
+    ], 
+    "rulesText": "When Brass's Tunnel-Grinder enters the battlefield, discard any number of cards, then draw that many cards plus one.  At the beginning of your end step, if you descended this turn, put a bore counter on Brass's Tunnel-Grinder. Then if there are three or more bore counters on it, remove those counters and transform it. (You descended if a permanent card was put into your graveyard from anywhere.)", 
+    "rarity": "Rare", 
+    "expansion": "LCI",
+    "description": "Name: Brass's Tunnel-Grinder, Color Identity: Red, Mana Cost: 2R, Mana Value: 3, Types: Legendary Artifact, Card Text: When Brass's Tunnel-Grinder enters the battlefield, discard any number of cards, then draw that many cards plus one.  At the beginning of your end step, if you descended this turn, put a bore counter on Brass's Tunnel-Grinder. Then if there are three or more bore counters on it, remove those counters and transform it. (You descended if a permanent card was put into your graveyard from anywhere.), Rarity: Rare, Expansion: LCI, Back Side: Name: Tecutlan, the Searing Rift, Color Identity: Red, Mana Value: 3, Types: Legendary Land--Cave, Card Text: (Transforms from Brass's Tunnel-Grinder.)  Tap: Add R.  Whenever you cast a permanent spell using mana produced by Tecutlan, the Searing Rift, discover X, where X is that spells mana value., Rarity: Rare",
+    "backSide": {
+      "name": "Tecutlan, the Searing Rift", 
+    	"img": [
+            {
+                "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636844&type=card",
+                "title": "Tecutlan, the Searing Rift",
+                "artist": "Cristi Balanescu",
+                "cardNum": 135
+            },
+            {
+                "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=639777&type=card",
+                "title": "Tecutlan, the Searing Rift Borderless",
+                "artist": "Cristi Balanescu",
+                "cardNum": 373
+            }
+        ], 
+        "colorId": [
+            "Red"
+        ],
+    	"manaValue": 3, 
+    	"superType": [
+            "Legendary"
+        ], 
+    	"cardType": [
+            "Land"
+        ],
+    	"type": [
+            "Cave"
+        ], 
+    	"rulesText": "(Transforms from Brass's Tunnel-Grinder.)  Tap: Add R.  Whenever you cast a permanent spell using mana produced by Tecutlan, the Searing Rift, discover X, where X is that spells mana value.", 
+    	"rarity": "Rare", 
+    	"expansion": "LCI"
+  	}
+  },
+  {
+    "id": 30,
+    "name": "Brazen Blademaster", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636845&type=card",
+            "title": "Brazen Blademaster",
+            "artist": "Jarel Threat",
+            "cardNum": 136
+        }
+    ], 
+    "colorId": [
+        "Red"
+    ],
+    "manaCost": "2R", 
+    "manaValue": 3, 
+    "cardType": [
+        "Creature"
+    ], 
+    "type": [
+        "Orc",
+        "Pirate"
+    ], 
+    "rulesText": "Whenever Brazen Blademaster attacks while you control two or more artifacts, it gets +2/+1 until end of turn.", 
+    "power": 2, 
+    "toughness": 3, 
+    "rarity": "Common", 
+    "expansion": "LCI",
+    "description": "Name: Brazen Blademaster, Color Identity: Red, Mana Cost: 2R, Mana Value: 3, Types: Creature--Orc Pirate, Card Text: Whenever Brazen Blademaster attacks while you control two or more artifacts, it gets +2/+1 until end of turn., P: 2, T: 3, Rarity: Common, Expansion: LCI"
+  },
+  {
+    "id": 31,
+    "name": "Breeches, Eager Pilager", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636846",
+            "title": "Breeches, Eager Pilager",
+            "artist": "Josu Hernaiz",
+            "cardNum": 137
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636501",
+            "title": "Breeches, Eager Pilager Showcase",
+            "artist": "Rafal Wechterowicz(Too Many Skulls)",
+            "cardNum": 294
+        }
+    ],
+    "colorId": [
+        "Red"
+    ], 
+    "manaCost": "2R", 
+    "manaValue": 3, 
+    "superType": [
+        "Legendary"
+    ], 
+    "cardType": [
+        "Creature"
+    ], 
+    "type": [
+        "Goblin",
+        "Pirate"
+    ],
+    "rulesText": "First Strike  Whenever a Pirate you control attacks, choose one that has not been chosen this turn —  • Create a Treasure token.  • Target creature can not block this turn.  • Exile the top card of your library. You may play it this turn.", 
+    "power": 3, 
+    "toughness": 3, 
+    "rarity": "Rare", 
+    "expansion": "LCI",
+    "description": "Name: Breeches, Eager Pilager, Color Identity: Red, Mana Cost: 2R, Mana Value: 3, Types: Legendary Creature--Goblin Pirate, Card Text: First Strike  Whenever a Pirate you control attacks, choose one that has not been chosen this turn —  • Create a Treasure token.  • Target creature can not block this turn.  • Exile the top card of your library. You may play it this turn., P: 3, T: 3, Rarity: Rare, Expansion: LCI"
+  },
+  {
+    "id": 31,
+    "name": "Bringer of the Last Gift", 
+    "img": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636798&type=card",
+            "title": "Bringer of the Last Gift",
+            "artist": "Wero Gallo",
+            "cardNum": 94
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=639263",
+            "title": "Bringer of the Last Gift Showcase",
+            "artist": "Psydrian",
+            "cardNum": 337
+        }
+    ], 
+    "colorId": [
+        "Black"
+    ],
+    "manaCost": "6BB", 
+    "manaValue": 8, 
+    "cardType": [
+        "Creature"
+    ], 
+    "type": [
+        "Vampire",
+        "Demon"
+    ], 
+    "rulesText": "Flying  When Bringer of the Last Gift enters the battlefield, if you cast it, each player sacrifices all other creatures they control. Then each player returns all creature cards from their graveyard that were not put there this way to the battlefield.", 
+    "power": 6, 
+    "toughness": 6, 
+    "rarity": "Rare", 
+    "expansion": "LCI",
+    "description": "Name: Bringer of the Last Gift, Color Identity: Black, Mana Cost: 6BB, Mana Value: 8, Types: Creature--Vampire Demon, Card Text: Flying  When Bringer of the Last Gift enters the battlefield, if you cast it, each player sacrifices all other creatures they control. Then each player returns all creature cards from their graveyard that were not put there this way to the battlefield., P: 6, T: 6, Rarity: Mythic Rare, Expansion: LCI"
+  }
+]

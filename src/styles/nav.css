@@ -1,0 +1,194 @@
+.nav-container {
+    font-family: 'Inter', sans-serif;
+    min-height: 10vh; 
+    background: var(--primary-color); 
+    color: white; 
+    padding-left: 10vw;
+    padding-right: 10vw;
+    position: sticky; 
+    top: 0; 
+    z-index: 9000;
+    
+}
+
+
+.mobile-nav {
+    overflow: hidden;
+    position: absolute; 
+    height: 0;
+    width: 100%; 
+    left: 0; 
+    top: 10vh; 
+    background: var(--primary-color); 
+    transition: 0.5s;
+}
+
+.mobile-nav.active {
+    height: 90vh;
+}
+
+.nav, .icons, .nav-container {
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+}
+
+.icons  i {
+    cursor: pointer;
+}
+
+.nav {
+
+    justify-content: center;
+}
+
+.icons, .logo, .nav{
+    flex-direction: column;
+    /* width: 33%; */
+}
+.nav-items, .icons>div {
+    margin-left: 1rem;
+    margin-top: 20px;
+    list-style-type: none;
+}
+
+.nav-link {
+    font-weight: 700;
+    text-decoration: none;
+    position: relative; 
+    z-index: 0; 
+}
+
+.nav-link::before {
+    content: '';
+    position: absolute;
+    width: 0%; 
+    height: 0.5rem;
+    background: var(--secondary-color); 
+    left: -5px; 
+    z-index: -1; 
+    bottom: 0; 
+    transition: all 0.5s;
+}
+
+.nav-link:hover::before {
+    width: 100%;
+}
+
+.nav-link, .logo {
+    text-transform: uppercase;
+}
+
+.logo {
+    color: inherit;
+    letter-spacing: 0.21em;
+    list-style-type: none;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.deck-count {
+    position: absolute; 
+    font-size: 0.5rem;
+    height: 1.5rem; 
+    width: 1.5rem;
+    display: grid; 
+    place-items: center;
+    top: 90%; 
+    right: -15px; 
+    background:white;
+    color: var(--secondary-color);
+    border: 1px solid var(--secondary-color);
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    border-radius: 50%;
+}
+
+
+.nav-container input {
+    opacity: 0;
+    width: 0; 
+}
+.nav-container input:focus, .nav-container input:focus-within {
+    opacity: 1;
+    width: 100%;
+    margin-right: 0.5rem
+}
+
+
+@media screen and (min-width: 768px) {
+    .icons, .logo, .nav{
+        flex-direction: row;
+        width: 33%;
+    }
+
+    .active {
+        display: flex;
+        justify-content: space-between;
+        flex: 1; 
+    }
+
+    .icons {
+        justify-content: end;
+    }
+
+    .nav-container .desktop-deck {
+        height: 100vh; 
+        width: 0vw; 
+        background: white;
+        position: absolute; 
+        top: 0; 
+        right: 0; 
+        overflow-y: auto; 
+        color: black;
+    }
+
+    .nav-container .desktop-deck.visible, .nav-container .desktop-deck:focus, .nav-container .desktop-deck:focus-within {
+        display: block;
+        animation: slide-in 0.3s forwards 1
+    }
+    .nav-container .desktop-deck.invisible, .nav-container .desktop-deck:not(:focus) {
+        width: 30vw;
+        animation: slide-out 0.3s forwards 1
+    }
+
+    .nav-container .desktop-deck > i {
+        cursor: pointer;
+        display: none;
+    }
+
+    .nav-container .desktop-deck:focus > i {
+        display: inline;
+    }
+
+    .nav-container .desktop-deck > i {
+        position: fixed; 
+        right: 20px; 
+        top: 20px; 
+        font-size: 1.5rem;
+    }
+
+    .nav-container .desktop-deck a {
+        text-align: center;
+    }
+    .nav-container .desktop-deck .btn {
+        width: 20vw;
+    }
+    .nav-container .desktop-deck button {
+        height: 2rem;
+        width: 80%;
+    }
+}
+
+@keyframes slide-in {
+    to {
+        width: 30vw; 
+    }
+    
+}
+@keyframes slide-out {
+    to {
+        width: 0vw; 
+    }
+    
+}
