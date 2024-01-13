@@ -14,24 +14,24 @@ const Gallery = ({isMobile, addToDeck, removeFromDeck, deck}) => {
   
 
     const fetchData =  async(pFilter = null) => {
-        let data = await fetch('https://raw.githubusercontent.com/cdevelopment010/shopping-cart/main/public/products.json')
+        let data = await fetch('https://raw.githubusercontent.com/jackfriedman616/mtg-deckbuilder/master/public/Products.json')
                     .then(res => res.json())
                     .catch(err => []); 
                     
         //filter data
         if (pFilter !== null && pFilter.length > 0) {
-          data = data.filter(d => {return d.category === pFilter.toLowerCase()})
+          data = data.filter(d => {return d.colorId[0] === pFilter.toLowerCase()})
         }
         setData(data);
     }
     const fetchData2 =  async(pFilter = null) => {
-        let data = await fetch('https://raw.githubusercontent.com/cdevelopment010/shopping-cart/main/public/products.json')
+        let data = await fetch('https://raw.githubusercontent.com/jackfriedman616/mtg-deckbuilder/master/public/Products.json')
                     .then(res => res.json())
                     .catch(err => []); 
                     
         //filter data
         if (pFilter !== null && pFilter.length > 0) {
-          data = data.filter(d => {return d.category.toLowerCase().includes(pFilter.toLowerCase()) | d.name.toLowerCase().includes(pFilter.toLowerCase()) | d.description.toLowerCase().includes(pFilter.toLowerCase())})
+          data = data.filter(d => {return d.colorId.toLowerCase().includes(pFilter.toLowerCase()) | d.name.toLowerCase().includes(pFilter.toLowerCase()) | d.description.toLowerCase().includes(pFilter.toLowerCase())})
           console.log(data);
         }
         setData(data);
@@ -81,13 +81,12 @@ const Gallery = ({isMobile, addToDeck, removeFromDeck, deck}) => {
             <div>
               <h5 onClick={hideComp}>Components <i className={`fa-solid ${ hiddenComponents ? 'fa-caret-left': 'fa-caret-down'}`}></i></h5>
               <ul className={`${hiddenComponents ? 'hidden' : ''}`}>
-                <li className={`filter-item ${filterCurrent==='Motherboard' ? 'filter-item-active' : ''}`} onClick={setFilter}>Motherboard <i className="ms-3 fa-regular fa-circle-xmark" onClick={setFilter}></i></li>
-                <li className={`filter-item ${filterCurrent==='CPU' ? 'filter-item-active' : ''}`} onClick={setFilter}>CPU <i className="ms-3 fa-regular fa-circle-xmark" onClick={setFilter}></i></li>
-                <li className={`filter-item ${filterCurrent==='Ram' ? 'filter-item-active' : ''}`} onClick={setFilter}>Ram <i className="ms-3 fa-regular fa-circle-xmark" onClick={setFilter}></i></li>
-                <li className={`filter-item ${filterCurrent==='Storage' ? 'filter-item-active' : ''}`} onClick={setFilter}>Storage <i className="ms-3 fa-regular fa-circle-xmark" onClick={setFilter}></i></li>
-                <li className={`filter-item ${filterCurrent==='Cooling' ? 'filter-item-active' : ''}`} onClick={setFilter}>Cooling <i className="ms-3 fa-regular fa-circle-xmark" onClick={setFilter}></i></li>
-                <li className={`filter-item ${filterCurrent==='Power Supply' ? 'filter-item-active' : ''}`} onClick={setFilter}>Power Supply <i className="ms-3 fa-regular fa-circle-xmark" onClick={setFilter}></i></li>
-                <li className={`filter-item ${filterCurrent==='GPU' ? 'filter-item-active' : ''}`} onClick={setFilter}>GPU <i className="ms-3 fa-regular fa-circle-xmark" onClick={setFilter}></i></li>
+                <li className={`filter-item ${filterCurrent==='White' ? 'filter-item-active' : ''}`} onClick={setFilter}>White <i className="ms-3 fa-regular fa-circle-xmark" onClick={setFilter}></i></li>
+                <li className={`filter-item ${filterCurrent==='Blue' ? 'filter-item-active' : ''}`} onClick={setFilter}>Blue <i className="ms-3 fa-regular fa-circle-xmark" onClick={setFilter}></i></li>
+                <li className={`filter-item ${filterCurrent==='Black' ? 'filter-item-active' : ''}`} onClick={setFilter}>Black <i className="ms-3 fa-regular fa-circle-xmark" onClick={setFilter}></i></li>
+                <li className={`filter-item ${filterCurrent==='Red' ? 'filter-item-active' : ''}`} onClick={setFilter}>Red <i className="ms-3 fa-regular fa-circle-xmark" onClick={setFilter}></i></li>
+                <li className={`filter-item ${filterCurrent==='Green' ? 'filter-item-active' : ''}`} onClick={setFilter}>Green <i className="ms-3 fa-regular fa-circle-xmark" onClick={setFilter}></i></li>
+                <li className={`filter-item ${filterCurrent==='Multicolor' ? 'filter-item-active' : ''}`} onClick={setFilter}>Multicolor <i className="ms-3 fa-regular fa-circle-xmark" onClick={setFilter}></i></li>
               </ul>
             </div>
             <div>
@@ -98,9 +97,6 @@ const Gallery = ({isMobile, addToDeck, removeFromDeck, deck}) => {
                 <li className={`filter-item ${filterCurrent==='Headset' ? 'filter-item-active' : ''}`} onClick={setFilter}>Headset <i className="ms-3 fa-regular fa-circle-xmark" onClick={setFilter}></i></li>
                 <li className={`filter-item ${filterCurrent==='Stickers' ? 'filter-item-active' : ''}`} onClick={setFilter}>Stickers <i className="ms-3 fa-regular fa-circle-xmark" onClick={setFilter}></i></li>
               </ul>
-            </div>
-            <div>
-              <h5>Pre-builds</h5>
             </div>
           </ul>
           <div className="items">

@@ -17,7 +17,7 @@ const ItemDetail = ({addToDeck, removeFromDeck, deck, isMobile}) => {
       .catch(err => [])
     let item = dataAll.filter(i => {return i.id === params.id*1})[0];
     setItem(item);
-    setMainImg(item.img[0]);
+    setMainImg(item.img);
 
     let rProducts = dataAll.filter(d => {return d.colorId[0] === item.colorId[0] && d.id !== item.id});
     setRelatedProducts(rProducts);
